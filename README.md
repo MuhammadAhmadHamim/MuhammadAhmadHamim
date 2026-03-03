@@ -1,22 +1,126 @@
-# 💫 About Me:
-Hey There!!<br><br>It's M.Ahmad here,a Software Engineering student at COMSATS University, Wah Campus, with a deep passion for building scalable, efficient, and innovative solutions. From writing clean, optimized code to solving complex problems, I thrive on challenges that push my skills forward.<br><br> I’m particularly interested in Coding, App Development & Game Development,always looking to bridge creativity with functionality in my work. Whether it's developing user-friendly applications, optimizing backend systems, or exploring new technologies, I enjoy turning ideas into reality through code.<br><br> Currently, I’m focused on honing my skills, working on real-world projects, and collaborating with like-minded developers to build impactful software solutions. If you share my enthusiasm for technology, let’s connect and exchange ideas!
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:0f1923,60:162032,100:0a0a0a&height=280&section=header&text=Muhammad%20Ahmad%20Hamim&fontSize=44&fontColor=e2ff00&fontAlignY=42&desc=Software%20Engineer%20in%20Progress%20%E2%80%94%20Building%20the%20Lore%20One%20Commit%20at%20a%20Time&descAlignY=62&descColor=b8cc00&animation=fadeIn&fontFamily=Georgia" alt="profile banner"/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/muhammad.ahmad.hamim) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeph_ahmad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-ahmad-hamim-676422350) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamshahzadahmad650@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MuhammadAhmadHamim&theme=bear&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MuhammadAhmadHamim&theme=bear&hide_border=false&cache_seconds=1800)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmadHamim&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
+```
+  C  →  C++  →  OOP  →  JavaFX  →  SQL  →  DSA  → ?????????????
+ └─Semester 1 ────────Semester 2 ─────Semester 3 ─ Beyond ──┘
+```
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MuhammadAhmadHamim&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=MuhammadAhmadHamim&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=180&bg_color=0d0d0d&title_color=e2ff00&text_color=b8cc00&icon_color=e2ff00"/>
+
+## ◈ The Story So Far
+
+Hey — I'm **Ahmad**. Software Engineering student at **COMSATS University, Wah Campus**.
+
+This profile is a live record of a journey that started with a Tic-Tac-Toe game in C and has been compounding ever since. Every repo here is a chapter. Every commit is a line. The story is still being written.
+
+I care about **clean code**, **real systems**, and **problems worth solving**. I'm drawn to the intersection of logic and creativity — where engineering discipline meets the drive to build something that actually works.
+
+Currently heads-down on **DSA**, **SQL**, and everything Semester 3 has to throw at me. Always open to collaborating with people who take their craft seriously.
+
+<br clear="right"/>
+
+---
+
+## ◈ The Arsenal
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-Foundation-e2ff00?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-Systems%20%26%20DSA-b8cc00?style=for-the-badge&logo=cplusplus&logoColor=black)
+![Java](https://img.shields.io/badge/Java-OOP%20%26%20JavaFX-e2ff00?style=for-the-badge&logo=openjdk&logoColor=black)
+![Python](https://img.shields.io/badge/Python-Scripting-b8cc00?style=for-the-badge&logo=python&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-Relational%20DB-e2ff00?style=for-the-badge&logo=mysql&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-Lightweight%20DB-b8cc00?style=for-the-badge&logo=sqlite&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Version%20Control-e2ff00?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-Home%20Base-b8cc00?style=for-the-badge&logo=github&logoColor=black)
+
+</div>
+
+---
+
+## ◈ The Repositories — A Timeline
+
+> *Every repo below is a chapter. Read them in order and you'll see the whole arc.*
+
+<div align="center">
+
+| Chapter | Repo | What It Represents |
+|:---:|:---|:---|
+| **01** | [Tic-Tac-Toe](https://github.com/MuhammadAhmadHamim/Tic-Tac-Toe) | The origin. First project. First compile. Where it all began. |
+| **02** | [cpp-core-foundations](https://github.com/MuhammadAhmadHamim/cpp-core-foundations) | Semester 1 in full — Hello World to pointers, memory and beyond. |
+| **03** | [java-oop-blueprint](https://github.com/MuhammadAhmadHamim/java-oop-blueprint) | Semester 2 — 7 OOP projects, the four pillars, built in Java. |
+| **04** | [Hospital-Management-System-HMS-](https://github.com/MuhammadAhmadHamim/Hospital-Management-System-HMS-) | The Semester 2 capstone. JavaFX, full CRUD, real architecture. |
+| **05** | [sql-data-intelligence](https://github.com/MuhammadAhmadHamim/sql-data-intelligence) | Semester 3 — SQL fundamentals to case studies, actively growing. | 
+| **06** | [dsa-master-vault](https://github.com/MuhammadAhmadHamim/dsa-master-vault) | Semester 3 — DSA in C++. 9 LeetCode problems. 7 at 100% runtime. |
+
+</div>
+
+---
+
+## ◈ GitHub at a Glance
+
+<div align="center">
+
+<img width="49%" src="https://streak-stats.demolab.com?user=MuhammadAhmadHamim&hide_border=true&background=0d0d0d&ring=e2ff00&fire=e2ff00&currStreakLabel=b8cc00&sideLabels=b8cc00&dates=b8cc00&sideNums=e2ff00&currStreakNum=e2ff00"/>
+
+</div>
+
+---
+
+## ◈ Current Focus
+
+```python
+ahmad = {
+    "semester"    : 3,
+    "grinding"    : ["DSA", "SQL", "Algorithms"],
+    "building"    : "One meaningful project at a time",
+    "interested_in": ["App Development", "Game Development", "Systems Programming"],
+    "philosophy"  : "Understand the why before the how",
+    "status"      : "Compiling..."
+}
+```
+
+---
+
+## ◈ Reach Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-e2ff00?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/muhammad-ahmad-hamim-676422350)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-b8cc00?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/zeph_ahmad)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-e2ff00?style=for-the-badge&logo=facebook&logoColor=black)](https://www.facebook.com/muhammad.ahmad.hamim)
+[![Email](https://img.shields.io/badge/Email-Write-b8cc00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:iamshahzadahmad650@gmail.com)
+
+</div>
+
+---
+
+## ◈ A Thought
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=MuhammadAhmadHamim&style=for-the-badge&color=e2ff00&label=PROFILE+VIEWS&abbreviated=true)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:162032,60:0f1923,100:0a0a0a&height=120&section=footer&text=The%20story%20is%20still%20being%20written.&fontSize=20&fontColor=e2ff00&fontAlignY=55&animation=fadeIn" alt="footer"/>
+
+</div>
