@@ -15,7 +15,6 @@
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=MuhammadAhmadHamim&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=180&bg_color=0d0d0d&title_color=e2ff00&text_color=b8cc00&icon_color=e2ff00"/>
 
 ## ◈ The Story So Far
 
@@ -27,7 +26,6 @@ I care about **clean code**, **real systems**, and **problems worth solving**. I
 
 Currently heads-down on **DSA**, **SQL**, and everything Semester 3 has to throw at me. Always open to collaborating with people who take their craft seriously.
 
-<br clear="right"/>
 
 ---
 
