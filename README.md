@@ -97,8 +97,8 @@ ahmad = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-e2ff00?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/muhammad-ahmad-hamim-676422350)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-b8cc00?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/zeph_ahmad)
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-e2ff00?style=for-the-badge&logo=facebook&logoColor=black)](https://www.facebook.com/muhammad.ahmad.hamim)
+[![Snapchat](https://img.shields.io/badge/Snapchat-Add-b8cc00?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/zeph_ahmad?share_id=TDHhsOirtm8&locale=en-US)
 [![Email](https://img.shields.io/badge/Email-Write-b8cc00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:iamshahzadahmad650@gmail.com)
-
 </div>
 
 ---
