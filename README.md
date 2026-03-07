@@ -115,8 +115,7 @@ ahmad = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=MuhammadAhmadHamim&style=for-the-badge&color=e2ff00&label=PROFILE+VIEWS&abbreviated=true)
-
+![Profile Views](https://komarev.com/ghpvc/?username=MuhammadAhmadHamim&style=for-the-badge&color=0d0d0d&label=PROFILE+VIEWS&abbreviated=true)
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:162032,60:0f1923,100:0a0a0a&height=120&section=footer&text=The%20story%20is%20still%20being%20written.&fontSize=20&fontColor=e2ff00&fontAlignY=55&animation=fadeIn" alt="footer"/>
