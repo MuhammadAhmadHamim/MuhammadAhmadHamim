@@ -60,6 +60,8 @@ Currently heads-down on **DSA**, **SQL**, and everything Semester 3 has to throw
 | **04** | [Hospital-Management-System-HMS-](https://github.com/MuhammadAhmadHamim/Hospital-Management-System-HMS-) | The Semester 2 capstone. JavaFX, full CRUD, real architecture. |
 | **05** | [sql-data-intelligence](https://github.com/MuhammadAhmadHamim/sql-data-intelligence) | Semester 3 — SQL fundamentals to case studies, actively growing. | 
 | **06** | [dsa-master-vault](https://github.com/MuhammadAhmadHamim/dsa-master-vault) | Semester 3 — DSA in C++. 9 LeetCode problems. 7 at 100% runtime. |
+| **07** | [n8n-ShortsStoryBot](https://github.com/MuhammadAhmadHamim/n8n-ShortsStoryBot) | Semester 3 — Story of How a Student Built a YouTube Automation Empire in 12hrs. |
+
 
 </div>
 
