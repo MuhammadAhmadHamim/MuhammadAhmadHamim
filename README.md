@@ -61,6 +61,7 @@ Currently heads-down on **DSA**, **SQL**, and everything Semester 3 has to throw
 | **05** | [sql-data-intelligence](https://github.com/MuhammadAhmadHamim/sql-data-intelligence) | Semester 3 — SQL fundamentals to certifications, actively growing. | 
 | **06** | [dsa-master-vault](https://github.com/MuhammadAhmadHamim/dsa-master-vault) | Semester 3 — DSA in C++. 13 LeetCode problems. 9 at 100% runtime. |
 | **07** | [n8n-ShortsStoryBot](https://github.com/MuhammadAhmadHamim/n8n-ShortsStoryBot) | Semester 3 — Story of How a Student Built a YT Automation Empire in 12hrs. |
+| **08** | [student-performance-predictor](https://github.com/MuhammadAhmadHamim/student-performance-predictor) | Semester 3 — Turning raw data into meaningful insights and a predictive model. |
 
 
 </div>
