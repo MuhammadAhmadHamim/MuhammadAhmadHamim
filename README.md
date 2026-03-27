@@ -72,7 +72,7 @@ Currently heads-down on **DSA**, **SQL**, and everything Semester 3 has to throw
 
 <div align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=MuhammadAhmadHamim&hide_border=true&background=0d0d0d&ring=e2ff00&fire=e2ff00&currStreakLabel=b8cc00&sideLabels=b8cc00&dates=b8cc00&sideNums=e2ff00&currStreakNum=e2ff00&cache_seconds=1800"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=MuhammadAhmadHamim&hide_border=true&background=0d0d0d&ring=e2ff00&fire=e2ff00&currStreakLabel=b8cc00&sideLabels=b8cc00&dates=b8cc00&sideNums=e2ff00&currStreakNum=e2ff00&cache_seconds=180"/>
 
 </div>
 
