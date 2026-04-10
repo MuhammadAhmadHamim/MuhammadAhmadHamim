@@ -62,6 +62,7 @@ Currently heads-down on **DSA**, **SQL**, and everything Semester 3 has to throw
 | **06** | [dsa-master-vault](https://github.com/MuhammadAhmadHamim/dsa-master-vault) | Semester 3 — DSA in C++. 14 LeetCode problems. 10 at 100% runtime. |
 | **07** | [n8n-ShortsStoryBot](https://github.com/MuhammadAhmadHamim/n8n-ShortsStoryBot) | Semester 3 — Story of How a Student Built a YT Automation Empire in 12hrs. |
 | **08** | [student-performance-predictor](https://github.com/MuhammadAhmadHamim/student-performance-predictor) | Semester 3 — Turning raw data into insights and a predictive model. |
+| **09** | [rozn](https://github.com/MuhammadAhmadHamim/rozn) | Semester 3 — rozn — روزن — a crack of light in your code.|
 
 
 </div>
