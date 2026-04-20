@@ -63,7 +63,7 @@ Currently heads-down on **DSA**, **SQL**, and everything Semester 3 has to throw
 | **07** | [n8n-ShortsStoryBot](https://github.com/MuhammadAhmadHamim/n8n-ShortsStoryBot) | Story of How a Student Built a YT Automation Empire in 12hrs. |
 | **08** | [student-performance-predictor](https://github.com/MuhammadAhmadHamim/student-performance-predictor) | Turning raw data into insights and a predictive model. |
 | **09** | [rozn](https://github.com/MuhammadAhmadHamim/rozn) | rozn — روزن — a local offline coding assistant. The crack of light in your code.|
-| **10** | [trivia-pulse](https://github.com/MuhammadAhmadHamim/trivia-pulse) | Automated daily fact generator rendering terminal-style SVG cards for Git profiles.|
+| **10** | [trivia-pulse](https://github.com/MuhammadAhmadHamim/trivia-pulse) | Automated fact generator rendering terminal-style SVG cards for GitHub profiles.|
 
 </div>
 
