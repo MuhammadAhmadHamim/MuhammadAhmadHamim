@@ -111,7 +111,7 @@ ahmad = {
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Trivia Pulse](https://raw.githubusercontent.com/MuhammadAhmadHamim/trivia-pulse/main/fact.svg)
 
 </div>
 
