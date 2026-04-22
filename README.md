@@ -59,7 +59,7 @@ Currently heads-down on **DSA**, **SQL**, and everything Semester 3 has to throw
 | **03** | [java-oop-blueprint](https://github.com/MuhammadAhmadHamim/java-oop-blueprint) | Semester 2 — 7 OOP projects, the four pillars, built in Java. |
 | **04** | [Hospital-Management-System-HMS-](https://github.com/MuhammadAhmadHamim/Hospital-Management-System-HMS-) | The Semester 2 capstone. JavaFX, full CRUD, real architecture. |
 | **05** | [sql-data-intelligence](https://github.com/MuhammadAhmadHamim/sql-data-intelligence) | Semester 3 — SQL fundamentals to certifications, actively growing. | 
-| **06** | [dsa-master-vault](https://github.com/MuhammadAhmadHamim/dsa-master-vault) | Semester 3 — DSA in C++. 14 LeetCode problems. 10 at 100% runtime. |
+| **06** | [dsa-master-vault](https://github.com/MuhammadAhmadHamim/dsa-master-vault) | Semester 3 — DSA in C++. 21 LeetCode problems. 15 at 100% runtime. |
 | **07** | [n8n-ShortsStoryBot](https://github.com/MuhammadAhmadHamim/n8n-ShortsStoryBot) | Story of How a Student Built a YT Automation Empire in 12hrs. |
 | **08** | [student-performance-predictor](https://github.com/MuhammadAhmadHamim/student-performance-predictor) | Turning raw data into insights and a predictive model. |
 | **09** | [rozn](https://github.com/MuhammadAhmadHamim/rozn) | rozn — روزن — a local offline coding assistant. The crack of light in your code.|
