@@ -64,7 +64,7 @@ Currently heads-down on **DSA**, **SQL**, and everything Semester 3 has to throw
 | **08** | [student-performance-predictor](https://github.com/MuhammadAhmadHamim/student-performance-predictor) | Turning raw data into insights and a predictive model. |
 | **09** | [rozn](https://github.com/MuhammadAhmadHamim/rozn) | rozn — روزن — a local offline coding assistant. The crack of light in your code.|
 | **10** | [trivia-pulse](https://github.com/MuhammadAhmadHamim/trivia-pulse) | Daily fact generator rendering terminal-style SVG cards for GitHub profiles.|
-
+| **11** | [match-kernel](https://github.com/MuhammadAhmadHamim/match-kernel) | Semester 3 - DS mountaintop. backend-driven, REST APIs, real-time dashboard. |
 </div>
 
 ---
