@@ -117,7 +117,9 @@ ahmad = {
 <br>
 </div>
 
-### The Grind, Visualized
+---
+
+## ◈ The Grind, Visualized
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
