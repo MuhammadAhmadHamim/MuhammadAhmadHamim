@@ -67,8 +67,7 @@ Currently heads-down on **DSA**, **SQL**, and everything Semester 3 has to throw
 | **11** | [match-kernel](https://github.com/MuhammadAhmadHamim/match-kernel) | Semester 3 - DS mountaintop. backend-driven, REST APIs, real-time frontend. |
 | **12** | [charter](https://github.com/MuhammadAhmadHamim/charter) | Semester 3 - DBS CherryonTop. Oracle SQL & APEX, RBAC, hierarchy and analytics. |
 </div>
-Campus Club & Event Management Suite built with Oracle SQL & APEX, 
-featuring RBAC, event subclass hierarchy and analytical dashboards.
+
 ---
 
 ## ◈ GitHub at a Glance
