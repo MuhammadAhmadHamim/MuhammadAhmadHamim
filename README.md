@@ -65,7 +65,7 @@ Currently heads-down on **DSA**, **SQL**, and everything Semester 3 has to throw
 | **09** | [rozn](https://github.com/MuhammadAhmadHamim/rozn) | rozn — روزن — a local offline coding assistant. The crack of light in your code.|
 | **10** | [trivia-pulse](https://github.com/MuhammadAhmadHamim/trivia-pulse) | Daily fact generator rendering terminal-style SVG cards for GitHub profiles.|
 | **11** | [match-kernel](https://github.com/MuhammadAhmadHamim/match-kernel) | Semester 3 - DS mountaintop. backend-driven, REST APIs, real-time frontend. |
-| **12** | [charter](https://github.com/MuhammadAhmadHamim/charter) | Semester 3 - DBS culmination. Oracle SQL & APEX, RBAC, hierarchy and analytics. |
+| **12** | [charter](https://github.com/MuhammadAhmadHamim/charter) | Semester 3 - DBS zenith. Oracle SQL & APEX, RBAC, hierarchy and analytics. |
 </div>
 
 ---
