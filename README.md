@@ -22,6 +22,8 @@ Hey — I'm **Ahmad**. Software Engineering student at **COMSATS University, Wah
 
 This profile is a live record of a journey that started with a Tic-Tac-Toe game in C and has been compounding ever since. Every repo here is a chapter. Every commit is a line. The story is still being written.
 
+So far the chapters include a local offline coding assistant that works without an internet connection, a backend matchmaking engine that groups players by skill rank using queues and multi-phase algorithms, a full Oracle APEX campus management suite with RBAC and budget tracking, a YouTube Shorts pipeline automated in a single Ramadan night, and an ML model that predicts student performance from raw data.
+
 I care about **clean code**, **real systems**, and **problems worth solving**. I'm drawn to the intersection of logic and creativity — where engineering discipline meets the drive to build something that actually works.
 
 Currently heads-down on **DSA**, **SQL**, and everything Semester 3 has to throw at me. Always open to collaborating with people who take their craft seriously.
