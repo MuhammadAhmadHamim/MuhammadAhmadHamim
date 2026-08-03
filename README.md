@@ -68,6 +68,7 @@ Currently heads-down on **DSA**, **SQL**, and everything Semester 3 has to throw
 | **10** | [trivia-pulse](https://github.com/MuhammadAhmadHamim/trivia-pulse) | Daily fact generator rendering terminal-style SVG cards for GitHub profiles.|
 | **11** | [match-kernel](https://github.com/MuhammadAhmadHamim/match-kernel) | Semester 3 - DS mountaintop. backend-driven, REST APIs, real-time frontend. |
 | **12** | [charter](https://github.com/MuhammadAhmadHamim/charter) | Semester 3 - DBS zenith. Oracle SQL & APEX, RBAC, hierarchy and analytics. |
+| **13** | [cloudexify-ds-p1](https://github.com/MuhammadAhmadHamim/cloudexify-ds-p1-MuhammadAhmadHamim) | CloudExify Data Science Summer Internship 2026 - Month 1.Project 1. |
 </div>
 
 ---
