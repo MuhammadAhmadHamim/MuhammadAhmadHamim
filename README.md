@@ -70,6 +70,8 @@ Currently heads-down on **AI**, **CN**, **INFOSEC**, **SQL** and everything Seme
 | **12** | [charter](https://github.com/MuhammadAhmadHamim/charter) | Semester 3 - DBS zenith. Oracle SQL & APEX, RBAC, hierarchy and analytics. |
 | **13** | [cloudexify-ds-p1](https://github.com/MuhammadAhmadHamim/cloudexify-ds-p1-MuhammadAhmadHamim) | CloudExify Data Science Summer Internship 2026 - Month 1.Project 1. |
 | **14** | [cloudexify-ds-final](https://github.com/MuhammadAhmadHamim/cloudexify-ds-final-MuhammadAhmadHamim) | CloudExify Data Science Summer Internship 2026 - Month 1.Final Project. |
+| **15** | [cloudexify-ds-p3](https://github.com/MuhammadAhmadHamim/cloudexify-ds-p3-MuhammadAhmadHamim) | CloudExify Data Science Summer Internship 2026 - Month 2.Project 3. |
+| **16** | [cloudexify-ds-p4-final](https://github.com/MuhammadAhmadHamim/cloudexify-ds-p4-final-MuhammadAhmadHamim) | CloudExify Data Science Summer Internship 2026 - Month 2.Final Project. |
 </div>
 
 ---
