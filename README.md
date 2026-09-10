@@ -7,7 +7,7 @@
 <div align="center">
 
 ```
-  C  →  C++  →  OOP  →  JavaFX  →  DSA  →  SQL  →  AI  →  CN  →  INFOSEC  →  ?????????????
+   C  →  C++  →  OOP  →  JavaFX  →  DSA  →  SQL  →  AI  →  CN  →  INFOSEC  →  ?????????????
 └─Semester 1 ────────Semester 2 ─Semester 3 ───────────────────Semester 4 ─Beyond ──┘
 ```
 
