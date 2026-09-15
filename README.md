@@ -60,7 +60,7 @@ Currently heads-down on **AI**, **CN**, **INFOSEC**, **SQL** and everything Seme
 | **02** | [cpp-core-foundations](https://github.com/MuhammadAhmadHamim/cpp-core-foundations) | Semester 1 in full — Hello World to pointers, memory and beyond. |
 | **03** | [java-oop-blueprint](https://github.com/MuhammadAhmadHamim/java-oop-blueprint) | Semester 2 — 7 OOP projects, the four pillars, built in Java. |
 | **04** | [Hospital-Management-System-HMS-](https://github.com/MuhammadAhmadHamim/Hospital-Management-System-HMS-) | The Semester 2 capstone. JavaFX, full CRUD, real architecture. |
-| **05** | [sql-data-intelligence](https://github.com/MuhammadAhmadHamim/sql-data-intelligence) | Semester 3 — SQL fundamentals to certifications, actively growing. | 
+| **05** | [sql-data-intelligence](https://github.com/MuhammadAhmadHamim/sql-data-intelligence) | Semester 3 & 4 — SQL fundamentals to certifications, actively growing. | 
 | **06** | [dsa-master-vault](https://github.com/MuhammadAhmadHamim/dsa-master-vault) | Semester 3 — DSA in C++. 38 LeetCode problems. 27 at 100% runtime. |
 | **07** | [n8n-ShortsStoryBot](https://github.com/MuhammadAhmadHamim/n8n-ShortsStoryBot) | Story of How a Student Built a YT Automation Empire in 12hrs. |
 | **08** | [student-performance-predictor](https://github.com/MuhammadAhmadHamim/student-performance-predictor) | Turning raw data into insights and a predictive model. |
