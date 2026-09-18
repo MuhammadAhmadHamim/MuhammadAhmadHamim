@@ -74,7 +74,7 @@ Currently heads-down on **AI**, **CN**, **INFOSEC**, **SQL** and everything Seme
 | **15** | [cloudexify-ds-p3](https://github.com/MuhammadAhmadHamim/cloudexify-ds-p3-MuhammadAhmadHamim) | CloudExify Data Science Summer Internship 2026 - Month 2.Project 3. |
 | **16** | [cloudexify-ds-p4-final](https://github.com/MuhammadAhmadHamim/cloudexify-ds-p4-final-MuhammadAhmadHamim) | CloudExify Data Science Summer Internship 2026 - Month 2.Final Project. |
 | **17** | [ai-heuristics-lab](https://github.com/MuhammadAhmadHamim/ai-heuristics-lab) | Semester 4 - Search, Logic, and Learning. |
-| **18** | [cn-hop-by-hop](https://github.com/MuhammadAhmadHamim/cn-hop-by-hop) | Semester 4 - Networking labs and Packet Tracer builds, tackled concepts singly. |
+| **18** | [cn-hop-by-hop](https://github.com/MuhammadAhmadHamim/cn-hop-by-hop) | Semester 4 - Computer Networks, one hop at a time. |
 </div>
 
 ---
