@@ -75,7 +75,7 @@ Currently heads-down on **AI**, **CN**, **INFOSEC**, **SQL** and everything Seme
 | **16** | [cloudexify-ds-p4-final](https://github.com/MuhammadAhmadHamim/cloudexify-ds-p4-final-MuhammadAhmadHamim) | CloudExify Data Science Summer Internship 2026 - Month 2.Final Project. |
 | **17** | [ai-heuristics-lab](https://github.com/MuhammadAhmadHamim/ai-heuristics-lab) | Semester 4 - Search, Logic, and Learning. |
 | **18** | [cn-hop-by-hop](https://github.com/MuhammadAhmadHamim/cn-hop-by-hop) | Semester 4 - Computer Networks, one hop at a time. |
-| **19** | [infosec-modulo](https://github.com/MuhammadAhmadHamim/infosec-modulo) | Semester 4 - Information Security, where every cipher is just arithmetic that wraps around. |
+| **19** | [infosec-modulo](https://github.com/MuhammadAhmadHamim/infosec-modulo) | Semester 4 - Information Security, where every cipher is just a wrap around. |
 
 </div>
 
