@@ -76,7 +76,7 @@ Currently heads-down on **AI**, **CN**, **INFOSEC**, **SQL** and everything Seme
 | **17** | [ai-heuristics-lab](https://github.com/MuhammadAhmadHamim/ai-heuristics-lab) | Semester 4 - Search, Logic, and Learning. |
 | **18** | [cn-hop-by-hop](https://github.com/MuhammadAhmadHamim/cn-hop-by-hop) | Semester 4 - Computer Networks, one hop at a time. |
 | **19** | [infosec-modulo](https://github.com/MuhammadAhmadHamim/infosec-modulo) | Semester 4 - Information Security, where every cipher is just a wrap around. |
-
+| **20** | [snitch](https://github.com/MuhammadAhmadHamim/snitch) | A personal finance tracker built for irregular student income.|
 </div>
 
 ---
