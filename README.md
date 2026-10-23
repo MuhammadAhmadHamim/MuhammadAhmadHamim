@@ -41,9 +41,10 @@ Currently heads-down on **AI**, **CN**, **INFOSEC**, **SQL** and everything Seme
 ![Python](https://img.shields.io/badge/Python-Scripting%20%26%20AI-b8cc00?style=for-the-badge&logo=python&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-Relational%20DB-e2ff00?style=for-the-badge&logo=mysql&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-Lightweight%20DB-b8cc00?style=for-the-badge&logo=sqlite&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco-Packet%20Analysis-e2ff00?style=for-the-badge&logo=cisco&logoColor=black)
-![Git](https://img.shields.io/badge/Git-Version%20Control-b8cc00?style=for-the-badge&logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-Home%20Base-e2ff00?style=for-the-badge&logo=github&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-Network%20Simulation%20And%20Architecture-e2ff00?style=for-the-badge&logo=cisco&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-b8cc00?style=for-the-badge&logo=wireshark&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Version%20Control-e2ff00?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-Home%20Base-b8cc00?style=for-the-badge&logo=github&logoColor=black)
 
 </div>
 
@@ -114,7 +115,7 @@ ahmad = {
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-b8cc00?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/zeph_ahmad)
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-e2ff00?style=for-the-badge&logo=facebook&logoColor=black)](https://www.facebook.com/muhammad.ahmad.hamim)
 [![Snapchat](https://img.shields.io/badge/Snapchat-Add-b8cc00?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/zeph_ahmad?share_id=TDHhsOirtm8&locale=en-US)
-[![Email](https://img.shields.io/badge/Email-Write-b8cc00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:iammahmadhamim019@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Write-e2ff00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:iammahmadhamim019@gmail.com)
 </div>
 
 ---
