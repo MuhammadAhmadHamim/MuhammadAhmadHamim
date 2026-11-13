@@ -43,8 +43,9 @@ Currently heads-down on **AI**, **CN**, **INFOSEC**, **SQL** and everything Seme
 ![SQLite](https://img.shields.io/badge/SQLite-Lightweight%20DB-b8cc00?style=for-the-badge&logo=sqlite&logoColor=black)
 ![Cisco](https://img.shields.io/badge/Cisco-Network%20Simulation%20And%20Architecture-e2ff00?style=for-the-badge&logo=cisco&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-b8cc00?style=for-the-badge&logo=wireshark&logoColor=black)
-![Git](https://img.shields.io/badge/Git-Version%20Control-e2ff00?style=for-the-badge&logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-Home%20Base-b8cc00?style=for-the-badge&logo=github&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-Experimentation-e2ff00?style=for-the-badge&logo=jupyter&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Version%20Control-b8cc00?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-Home%20Base-e2ff00?style=for-the-badge&logo=github&logoColor=black)
 
 </div>
 
